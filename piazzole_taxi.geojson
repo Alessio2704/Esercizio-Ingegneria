@@ -1,0 +1,802 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.363039479610443, 44.48915108325482, -39.313416289165616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 2,
+        "telefono": "NO",
+        "nome": "Albertoni",
+        "localizzaz": "Via Albertoni 6",
+        "stalli": 2,
+        "geo_point_2d": { "lon": 11.363039479610443, "lat": 44.48915108325482 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.284341408352311, 44.49438039640227, -39.27026291098446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 7,
+        "telefono": "051569252",
+        "nome": "Barca",
+        "localizzaz": "Piazza Giovanni XXIII 12",
+        "stalli": 5,
+        "geo_point_2d": { "lon": 11.284341408352311, "lat": 44.49438039640227 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.330796314027106, 44.500794695731045, -39.26484935544431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 10,
+        "telefono": "051522426",
+        "nome": "Calori",
+        "localizzaz": "Via Calori 15",
+        "stalli": 6,
+        "geo_point_2d": { "lon": 11.330796314027106, "lat": 44.500794695731045 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.306961002919744, 44.49910590149352, -39.26246254891157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 12,
+        "telefono": "NO",
+        "nome": "Certosa",
+        "localizzaz": "Parcheggio Vittime Lager Nazisti",
+        "stalli": 4,
+        "geo_point_2d": { "lon": 11.306961002919744, "lat": 44.49910590149352 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.356730328716075, 44.548051373023, -39.22413141746074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 14,
+        "telefono": "051702772",
+        "nome": "Corticella",
+        "localizzaz": "Via Bentini 38",
+        "stalli": 5,
+        "geo_point_2d": { "lon": 11.356730328716075, "lat": 44.548051373023 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.313682802783372, 44.49449899936487, -39.281099257059395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 20,
+        "telefono": "0516142495",
+        "nome": "ICO",
+        "localizzaz": "Via Andrea Costa 160",
+        "stalli": 9,
+        "geo_point_2d": { "lon": 11.313682802783372, "lat": 44.49449899936487 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.38065180974892, 44.48445147019114, -39.32994917780161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 26,
+        "telefono": "051493090",
+        "nome": "Misa",
+        "localizzaz": "Via Misa 40",
+        "stalli": 4,
+        "geo_point_2d": { "lon": 11.38065180974892, "lat": 44.48445147019114 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.341893714787137, 44.50167159054253, -39.26831768266857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 30,
+        "telefono": "NO",
+        "nome": "Omnia",
+        "localizzaz": "Via Dei Mille (ANGOLO Via Montebello)",
+        "stalli": 10,
+        "geo_point_2d": { "lon": 11.341893714787137, "lat": 44.50167159054253 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.342375702546379, 44.48074468653246, -39.333739288151264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 34,
+        "telefono": "051331205",
+        "nome": "Ospedale Rizzoli",
+        "localizzaz": "Via Pupilli 2",
+        "stalli": 4,
+        "geo_point_2d": { "lon": 11.342375702546379, "lat": 44.48074468653246 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.391559420934128, 44.51139616863762, -39.278275980614126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 36,
+        "telefono": "051505020",
+        "nome": "Pirandello",
+        "localizzaz": "Presso Il Centro Commerciale",
+        "stalli": 5,
+        "geo_point_2d": { "lon": 11.391559420934128, "lat": 44.51139616863762 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.343927311194111, 44.499379953372326, -39.274131634272635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 38,
+        "telefono": "051252600",
+        "nome": "Righi",
+        "localizzaz": "Via Indipendenza 51",
+        "stalli": 5,
+        "geo_point_2d": { "lon": 11.343927311194111, "lat": 44.499379953372326 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.340677909318, 44.494032989728595, -39.29003455769271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 39,
+        "telefono": "NO",
+        "nome": "Roosevelt",
+        "localizzaz": "Piazza Roosevelt",
+        "stalli": 4,
+        "geo_point_2d": { "lon": 11.340677909318, "lat": 44.494032989728595 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.342704515024145, 44.505502690576485, -39.262227608822286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 43,
+        "telefono": "051246555",
+        "nome": "Stazione FS",
+        "localizzaz": "Piazzale Medaglie D\u2019oro",
+        "stalli": 27,
+        "geo_point_2d": { "lon": 11.342704515024145, "lat": 44.505502690576485 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.34379890441538, 44.4883149942109, -39.30968615412712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 45,
+        "telefono": "051583728",
+        "nome": "Tribunali",
+        "localizzaz": "Piazza Dei Tribunali",
+        "stalli": 5,
+        "geo_point_2d": { "lon": 11.34379890441538, "lat": 44.4883149942109 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.347348917750475, 44.511275689113305, -39.25510110706091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 46,
+        "telefono": "051355366",
+        "nome": "Unit\u00e0",
+        "localizzaz": "Piazza Dell\u2019unita\u2019",
+        "stalli": 6,
+        "geo_point_2d": { "lon": 11.347348917750475, "lat": 44.511275689113305 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.351944680559086, 44.49409808504517, -39.294351641088724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 4,
+        "telefono": "051233301",
+        "nome": "Aldrovandi",
+        "localizzaz": "Piazza Aldrovandi 12",
+        "stalli": 5,
+        "geo_point_2d": { "lon": 11.351944680559086, "lat": 44.49409808504517 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.390415654790269, 44.477180705706786, -39.350235858000815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 5,
+        "telefono": "051545500",
+        "nome": "Arno",
+        "localizzaz": "Via Arno 1",
+        "stalli": 5,
+        "geo_point_2d": { "lon": 11.390415654790269, "lat": 44.477180705706786 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.345931614785858, 44.50424668888297, -39.26601539924741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 6,
+        "telefono": "NO",
+        "nome": "Autostazione",
+        "localizzaz": "Piazza Xx Settembre 6",
+        "stalli": 5,
+        "geo_point_2d": { "lon": 11.345931614785858, "lat": 44.50424668888297 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.367009207572803, 44.48673294050594, -39.32170851249248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 9,
+        "telefono": "051307706",
+        "nome": "Bondi",
+        "localizzaz": "Via Mazzini 140",
+        "stalli": 7,
+        "geo_point_2d": { "lon": 11.367009207572803, "lat": 44.48673294050594 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.344179198706017, 44.49130113756201, -39.3002135977149
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 11,
+        "telefono": "051233261",
+        "nome": "Cavour",
+        "localizzaz": "Piazza Cavour 1",
+        "stalli": 8,
+        "geo_point_2d": { "lon": 11.344179198706017, "lat": 44.49130113756201 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.328576466292873, 44.51871148172878, -39.23098348733038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 23,
+        "telefono": "0516344634",
+        "nome": "Marco Polo",
+        "localizzaz": "Via Marco Polo 24",
+        "stalli": 4,
+        "geo_point_2d": { "lon": 11.328576466292873, "lat": 44.51871148172878 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.400991886173585, 44.495090103975855, -39.30566140823066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 24,
+        "telefono": "051535524",
+        "nome": "Mattei",
+        "localizzaz": "Via Mattei 26",
+        "stalli": 7,
+        "geo_point_2d": { "lon": 11.400991886173585, "lat": 44.495090103975855 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.343948604256445, 44.49450615485985, -39.28981984779239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 27,
+        "telefono": "051231005",
+        "nome": "Nettuno",
+        "localizzaz": "Via Dell\u2019archiginnasio 2",
+        "stalli": 15,
+        "geo_point_2d": { "lon": 11.343948604256445, "lat": 44.49450615485985 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.315612635676318, 44.53335494757547, -39.1926131490618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 28,
+        "telefono": "NO",
+        "nome": "Noce",
+        "localizzaz": "Via Zanardi 502",
+        "stalli": 1,
+        "geo_point_2d": { "lon": 11.315612635676318, "lat": 44.53335494757547 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.26387609021545, 44.521574647928595, -39.17380714509636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 29,
+        "telefono": "051402242",
+        "nome": "Normandia",
+        "localizzaz": "Via Marco Emilio Lepido",
+        "stalli": 3,
+        "geo_point_2d": { "lon": 11.26387609021545, "lat": 44.521574647928595 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.390776056160233, 44.4640456455871, -39.388800328597426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 32,
+        "telefono": "NO",
+        "nome": "Ospedale Bellaria",
+        "localizzaz": "Via Altura 3",
+        "stalli": 2,
+        "geo_point_2d": { "lon": 11.390776056160233, "lat": 44.4640456455871 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.360705344545863, 44.49083245293379, -39.30761471670121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 35,
+        "telefono": "0516364983",
+        "nome": "Ospedale S.Orsola",
+        "localizzaz": "Padiglione 11",
+        "stalli": 8,
+        "geo_point_2d": { "lon": 11.360705344545863, "lat": 44.49083245293379 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.369371426738505, 44.4569753946825, -39.422042863443494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 41,
+        "telefono": "NO",
+        "nome": "San Ruffillo",
+        "localizzaz": "Via Toscana 138",
+        "stalli": 2,
+        "geo_point_2d": { "lon": 11.369371426738505, "lat": 44.4569753946825 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [11.367048195833, 44.50389812995396, -39.27735972683877],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 40,
+        "telefono": "051511031",
+        "nome": "Salvini",
+        "localizzaz": "Via San Donato 68",
+        "stalli": 7,
+        "geo_point_2d": { "lon": 11.367048195833, "lat": 44.50389812995396 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.37211381956129, 44.511440477685824, -39.26859054714441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 25,
+        "telefono": "NO",
+        "nome": "Michelino",
+        "localizzaz": "Viale Europa (CINEMA Multisala)",
+        "stalli": 4,
+        "geo_point_2d": { "lon": 11.37211381956129, "lat": 44.511440477685824 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.37253471582798, 44.46285251153046, -39.39600829780102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 44,
+        "telefono": "NO",
+        "nome": "Stazione San Ruffillo",
+        "localizzaz": "Via Della Direttissima",
+        "stalli": 0,
+        "geo_point_2d": { "lon": 11.37253471582798, "lat": 44.46285251153046 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.294890109216542, 44.52924060851919, -39.183547536842525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 1,
+        "telefono": "NO",
+        "nome": "Aeroporto",
+        "localizzaz": "Aeroporto Marconi (AREA Arrivi)",
+        "stalli": 34,
+        "geo_point_2d": { "lon": 11.294890109216542, "lat": 44.52924060851919 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.363023299930422, 44.509013230898766, -39.26751813851297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 3,
+        "telefono": "NO",
+        "nome": "Aldo Moro",
+        "localizzaz": "Viale Aldo Moro 18",
+        "stalli": 16,
+        "geo_point_2d": { "lon": 11.363023299930422, "lat": 44.509013230898766 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.377988108025463, 44.46528117980605, -39.384894877672195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 8,
+        "telefono": "051477777",
+        "nome": "Battaglia",
+        "localizzaz": "Via Della Battaglia 12",
+        "stalli": 4,
+        "geo_point_2d": { "lon": 11.377988108025463, "lat": 44.46528117980605 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.369126806016567, 44.47340841628244, -39.36037671752274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 13,
+        "telefono": "051440200",
+        "nome": "Chiesanuova",
+        "localizzaz": "Via Murri (ANGOLO Via Lamponi)",
+        "stalli": 9,
+        "geo_point_2d": { "lon": 11.369126806016567, "lat": 44.47340841628244 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.35013764280605, 44.52741447436775, -39.230325447395444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 15,
+        "telefono": "NO",
+        "nome": "Croce Coperta",
+        "localizzaz": "Via Corticella 180",
+        "stalli": 2,
+        "geo_point_2d": { "lon": 11.35013764280605, "lat": 44.52741447436775 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.362837682832412, 44.492586097753446, -39.30318923853338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 17,
+        "telefono": "051300740",
+        "nome": "Fabbri",
+        "localizzaz": "Via Massarenti 96",
+        "stalli": 4,
+        "geo_point_2d": { "lon": 11.362837682832412, "lat": 44.492586097753446 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.359966217100174, 44.5110479517281, -39.26266384217888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 18,
+        "telefono": "NO",
+        "nome": "Fiera",
+        "localizzaz": "Piazza Costituzione 8",
+        "stalli": 22,
+        "geo_point_2d": { "lon": 11.359966217100174, "lat": 44.5110479517281 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.350609156556677, 44.489803311964394, -39.30723438505083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 19,
+        "telefono": "051233300",
+        "nome": "Garganelli",
+        "localizzaz": "Via Santo Stefano 40",
+        "stalli": 8,
+        "geo_point_2d": { "lon": 11.350609156556677, "lat": 44.489803311964394 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.336737709668098, 44.49552589184976, -39.283513139002025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 22,
+        "telefono": "051233029",
+        "nome": "Malpighi",
+        "localizzaz": "Piazza Malpighi 4",
+        "stalli": 12,
+        "geo_point_2d": { "lon": 11.336737709668098, "lat": 44.49552589184976 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.358871206204624, 44.48330997969084, -39.32963416632265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 31,
+        "telefono": "051307872",
+        "nome": "Oriani",
+        "localizzaz": "Viale Oriani 56",
+        "stalli": 5,
+        "geo_point_2d": { "lon": 11.358871206204624, "lat": 44.48330997969084 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.315596808979578, 44.50448369995837, -39.252434596419334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 33,
+        "telefono": "051385887",
+        "nome": "Ospedale Maggiore",
+        "localizzaz": "Largo Nigrisoli",
+        "stalli": 7,
+        "geo_point_2d": { "lon": 11.315596808979578, "lat": 44.50448369995837 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.28963302159095, 44.511487575461736, -39.22231271211058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 37,
+        "telefono": "051389963",
+        "nome": "Pontelungo",
+        "localizzaz": "Via Emilia Ponente 315",
+        "stalli": 4,
+        "geo_point_2d": { "lon": 11.28963302159095, "lat": 44.511487575461736 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.394104212954682, 44.49847424901963, -39.29525952413678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 21,
+        "telefono": "051533713",
+        "nome": "Larga",
+        "localizzaz": "Via Larga (ROTONDA Paradisi)",
+        "stalli": 3,
+        "geo_point_2d": { "lon": 11.394104212954682, "lat": 44.49847424901963 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.369606484996288, 44.53341923261187, -39.235608072951436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 16,
+        "telefono": "NO",
+        "nome": "Dozza",
+        "localizzaz": "Ferrarese",
+        "stalli": 2,
+        "geo_point_2d": { "lon": 11.369606484996288, "lat": 44.53341923261187 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.330441006140369, 44.49040789373891, -39.29878800921142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 42,
+        "telefono": "051332606",
+        "nome": "Saragozza",
+        "localizzaz": "Piazza Di Porta Saragozza",
+        "stalli": 7,
+        "geo_point_2d": { "lon": 11.330441006140369, "lat": 44.49040789373891 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.359915534841297, 44.498826755641325, -39.28338564466685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "pr": 47,
+        "telefono": "NO",
+        "nome": "Veneta",
+        "localizzaz": "Via Berlinguer",
+        "stalli": 0,
+        "geo_point_2d": { "lon": 11.359915534841297, "lat": 44.498826755641325 }
+      }
+    }
+  ]
+}

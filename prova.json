@@ -1,0 +1,32 @@
+[
+    {
+        "charging_station": {
+            "latitude": 44.49700341390372,
+            "longitude": 11.353905700931564,
+            "operator": "Be Charge"
+        },
+        "distance_from_user": 173.31654661912722,
+        "driving_distance": "45 m",
+        "driving_duration": "1 min",
+        "nearest_taxi_stand": {
+            "name": "Aldrovandi",
+            "distance": 358.5513523298141,
+            "phone_number": "051233301"
+        }
+    },
+    {
+        "charging_station": {
+            "latitude": 44.49643106212672,
+            "longitude": 11.355511917436028,
+            "operator": "Enel"
+        },
+        "distance_from_user": 275.00039812805653,
+        "driving_distance": "33 m",
+        "driving_duration": "1 min",
+        "nearest_taxi_stand": {
+            "name": "Aldrovandi",
+            "distance": 383.8635946240168,
+            "phone_number": "051233301"
+        }
+    }
+]

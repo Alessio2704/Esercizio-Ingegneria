@@ -1,0 +1,3509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.340008035958268, 44.49414448977406, -3.307312727e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Piazza Roosevelt (angolo IV Novembre",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "29790/14 -430386/22",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "MALPIGHI-1",
+        "zona_pross": "MALPIGHI",
+        "geo_point_2d": { "lon": 11.340008035958268, "lat": 44.49414448977406 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.35506170972622, 44.538750411678336, -3.3153221011e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Via Giardini (parcheggio lato parco",
+        "quartiere": "Navile",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "CROCE COPERTA",
+        "zona_pross": "CORTICELLA - DOZZA",
+        "geo_point_2d": { "lon": 11.35506170972622, "lat": 44.538750411678336 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.312627563052086, 44.50021621443737, -3.3084303141e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Via Pasubio 82",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "VELODROMO",
+        "zona_pross": "SAFFI",
+        "geo_point_2d": { "lon": 11.312627563052086, "lat": 44.50021621443737 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.300910565193037, 44.49395554479704, -3.3070333302e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Via Fancelli (vicino al Circolo Tennis",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "CANALE DI RENO",
+        "zona_pross": "BARCA",
+        "geo_point_2d": { "lon": 11.300910565193037, "lat": 44.49395554479704 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.264613962098439, 44.52234171118647, -3.3124350011e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Carroccio 3",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "DUCATI-VILLAGGIO INA",
+        "zona_pross": "BORGO PANIGALE",
+        "geo_point_2d": { "lon": 11.264613962098439, "lat": 44.52234171118647 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.373224170772465, 44.478629893740646, -3.304425627e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Largo Lercaro (ang. Via Lamponi",
+        "quartiere": "Santo Stefano",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "DAGNINI",
+        "zona_pross": "MURRI",
+        "geo_point_2d": { "lon": 11.373224170772465, "lat": 44.478629893740646 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.34046650845673, 44.50917429904898, -3.3099204302e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Fioravanti  (fr via Tiarini",
+        "quartiere": "Navile",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "308376/19",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "EX MERCATO ORTOFRUTTICOLO",
+        "zona_pross": "BOLOGNINA",
+        "geo_point_2d": { "lon": 11.34046650845673, "lat": 44.50917429904898 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.392234173619402, 44.49694690304169, -3.3075921237e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enermia",
+        "ubicazione": "Via Scandellara 80",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "213598/18",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "VIA LARGA",
+        "zona_pross": "CIRENAICA - MASSARENTI - SCANDELLARA",
+        "geo_point_2d": { "lon": 11.392234173619402, "lat": 44.49694690304169 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.344978252406651, 44.487400009363014, -3.3059157431e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Viale XII Giugno n. 2",
+        "quartiere": "Santo Stefano",
+        "anno": "ND",
+        "numstalli": 1,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "212655/13",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "GALVANI-2",
+        "zona_pross": "GALVANI",
+        "geo_point_2d": { "lon": 11.344978252406651, "lat": 44.487400009363014 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.372191123490142, 44.48393513040965, -3.3052638173e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Sigonio 1",
+        "quartiere": "Santo Stefano",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "DAGNINI",
+        "zona_pross": "MURRI",
+        "geo_point_2d": { "lon": 11.372191123490142, "lat": 44.48393513040965 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.341043545548603, 44.511301470414644, -3.310199827e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Fioravanti (fr Via Albani",
+        "quartiere": "Navile",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "308376/19",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "EX MERCATO ORTOFRUTTICOLO",
+        "zona_pross": "BOLOGNINA",
+        "geo_point_2d": { "lon": 11.341043545548603, "lat": 44.511301470414644 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.28132190735244, 44.49361463053974, -3.3071264625e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Raffaello Sanzio 6",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "308376/19",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "VILLAGGIO DELLA BARCA",
+        "zona_pross": "BARCA",
+        "geo_point_2d": { "lon": 11.28132190735244, "lat": 44.49361463053974 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.343134019669593, 44.50413285990449, -3.3089891076e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Boldrini incrocio con via Gramsci",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "212655/13",
+        "numcolonni": 2,
+        "disp": "spina",
+        "area_stati": "MARCONI-2",
+        "zona_pross": "MARCONI",
+        "geo_point_2d": { "lon": 11.343134019669593, "lat": 44.50413285990449 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.339980948859315, 44.50263284686121, -3.3088959754e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Piazza dei Martiri (angolo Amendola",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 1,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "212655/13",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "MARCONI-2",
+        "zona_pross": "MARCONI",
+        "geo_point_2d": { "lon": 11.339980948859315, "lat": 44.50263284686121 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.357673891720866, 44.49479958624025, -3.3074989915e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enermia",
+        "ubicazione": "Via Zanolini 4",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "213598/18",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "CIRENAICA",
+        "zona_pross": "CIRENAICA - MASSARENTI - SCANDELLARA",
+        "geo_point_2d": { "lon": 11.357673891720866, "lat": 44.49479958624025 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.276599308539469, 44.518012352510404, -3.3115036786e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Soges",
+        "ubicazione": "Via Miliani",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "0",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "BORGO CENTRO",
+        "zona_pross": "BORGO PANIGALE",
+        "geo_point_2d": { "lon": 11.276599308539469, "lat": 44.518012352510404 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.345166696901888, 44.49899869134441, -3.3081509173e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Augusto Righi n. 14",
+        "quartiere": "Santo Stefano",
+        "anno": "ND",
+        "numstalli": 1,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "212655/13",
+        "numcolonni": 1,
+        "disp": "soina",
+        "area_stati": "IRNERIO-2",
+        "zona_pross": "IRNERIO",
+        "geo_point_2d": { "lon": 11.345166696901888, "lat": 44.49899869134441 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.333321395708436, 44.5004567436306, -3.3082440495e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Calori 3",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "MARCONI-2",
+        "zona_pross": "MARCONI",
+        "geo_point_2d": { "lon": 11.333321395708436, "lat": 44.5004567436306 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.33414539584392, 44.521539944605216, -3.3121556044e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Beverara (museo patrimonio industriale",
+        "quartiere": "Navile",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "BEVERARA",
+        "zona_pross": "BEVERARA",
+        "geo_point_2d": { "lon": 11.33414539584392, "lat": 44.521539944605216 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.319845806483494, 44.49130095492279, -3.3065676689e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via XXI Aprile 2D",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "XXI APRILE",
+        "zona_pross": "SARAGOZZA - SAN LUCA",
+        "geo_point_2d": { "lon": 11.319845806483494, "lat": 44.49130095492279 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.35472812986217, 44.50890350333958, -3.3098272979e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Via Lianori (area parcheggio",
+        "quartiere": "Navile",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "PIAZZA DELL'UNITA'",
+        "zona_pross": "BOLOGNINA",
+        "geo_point_2d": { "lon": 11.35472812986217, "lat": 44.50890350333958 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.359859477163388, 44.545694439191365, -3.3166259527e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "via Gorki (parcheggio",
+        "quartiere": "Navile",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "SAN SAVINO",
+        "zona_pross": "CORTICELLA - DOZZA",
+        "geo_point_2d": { "lon": 11.359859477163388, "lat": 44.545694439191365 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.391537297621406, 44.494236389549464, -3.3072195947e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Larga (parcheggio vicino all'Hotel Una",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "VIA LARGA",
+        "zona_pross": "CIRENAICA - MASSARENTI - SCANDELLARA",
+        "geo_point_2d": { "lon": 11.391537297621406, "lat": 44.494236389549464 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.272616127269018, 44.52247543839425, -3.3122487366e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Biancolelli n. 36",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "DUCATI-VILLAGGIO INA",
+        "zona_pross": "BORGO PANIGALE",
+        "geo_point_2d": { "lon": 11.272616127269018, "lat": 44.52247543839425 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.27875701055393, 44.50250045046346, -3.3087097108e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Caduti di Casteldebole n. 3",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "CASTELDEBOLE",
+        "zona_pross": "CASTELDEBOLE - PONTELUNGO",
+        "geo_point_2d": { "lon": 11.27875701055393, "lat": 44.50250045046346 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.37258092099138, 44.49455112285623, -3.3072195947e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Rimesse (mobilificio \u201cTre Stelle\u201d",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "CIRENAICA",
+        "zona_pross": "CIRENAICA - MASSARENTI - SCANDELLARA",
+        "geo_point_2d": { "lon": 11.37258092099138, "lat": 44.49455112285623 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.362247878289006, 44.476389028965414, -3.3039599657e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Via Borghi Mamo 9",
+        "quartiere": "Santo Stefano",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "CHIESANUOVA",
+        "zona_pross": "MURRI",
+        "geo_point_2d": { "lon": 11.362247878289006, "lat": 44.476389028965414 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.386407199704278, 44.478878124044314, -3.3042393625e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Emilia Levante 137",
+        "quartiere": "Savena",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "BITONE",
+        "zona_pross": "PONTEVECCHIO - MAZZINI",
+        "geo_point_2d": { "lon": 11.386407199704278, "lat": 44.478878124044314 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.349669118336482, 44.51265908837439, -3.3104792237e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Saliceto Giardino",
+        "quartiere": "Navile",
+        "anno": "ND",
+        "numstalli": 1,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "212655/13",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "VIA FERRARESE",
+        "zona_pross": "BOLOGNINA",
+        "geo_point_2d": { "lon": 11.349669118336482, "lat": 44.51265908837439 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.348275836355992, 44.51938683439311, -3.3116899431e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Corticella 87",
+        "quartiere": "Navile",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "VIA FERRARESE",
+        "zona_pross": "BOLOGNINA",
+        "geo_point_2d": { "lon": 11.348275836355992, "lat": 44.51938683439311 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.318224665204477, 44.52554635201496, -3.3129006624e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Zanardi 240",
+        "quartiere": "Navile",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "PESCAROLA",
+        "zona_pross": "BERTALIA - NOCE",
+        "geo_point_2d": { "lon": 11.318224665204477, "lat": 44.52554635201496 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.35378920436541, 44.485203791060506, -39.3225330542773]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Piazza del Baraccano",
+        "quartiere": "Santo Stefano",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "GALVANI-2",
+        "zona_pross": "GALVANI",
+        "geo_point_2d": { "lon": 11.35378920436541, "lat": 44.485203791060506 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.331112010351971, 44.497366594751206, -39.27533307764679]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via S. Rocco 2",
+        "quartiere": "Porto - Saragozza",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "MALPIGHI-2",
+        "zona_pross": "MALPIGHI",
+        "geo_point_2d": { "lon": 11.331112010351971, "lat": 44.497366594751206 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.375416809272636, 44.486365472788584, -39.323933059349656]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Parcheggio Rotonda Fossolo",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "MENGOLI",
+        "zona_pross": "CIRENAICA - MASSARENTI - SCANDELLARA",
+        "geo_point_2d": { "lon": 11.375416809272636, "lat": 44.486365472788584 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.356693070303157, 44.548068247785466, -39.22413317114115]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Bentini parcheggio Dazio",
+        "quartiere": "Navile",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "SAN SAVINO",
+        "zona_pross": "CORTICELLA - DOZZA",
+        "geo_point_2d": { "lon": 11.356693070303157, "lat": 44.548068247785466 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.396327896165191, 44.475504423532165, -39.354733037762344]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via dallolio",
+        "quartiere": "Savena",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "DUE MADONNE",
+        "zona_pross": "FOSSOLO - DUE MADONNE",
+        "geo_point_2d": { "lon": 11.396327896165191, "lat": 44.475504423532165 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.33924330497161, 44.48692148890216, -39.312833059579134]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Mura Porta D'Azeglio",
+        "quartiere": "Porto - Saragozza",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "attendere",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "MALPIGHI-2",
+        "zona_pross": "MALPIGHI",
+        "geo_point_2d": { "lon": 11.33924330497161, "lat": 44.48692148890216 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.320604507000585, 44.49773889845014, -39.27123307995498]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Pasubio",
+        "quartiere": "Porto - Saragozza",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "VIA VITTORIO VENETO",
+        "zona_pross": "SAFFI",
+        "geo_point_2d": { "lon": 11.320604507000585, "lat": 44.49773889845014 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.3368361101402, 44.49669729201449, -39.27963307779282]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Riva Reno",
+        "quartiere": "Porto - Saragozza",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "attendere",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "MARCONI-2",
+        "zona_pross": "MARCONI",
+        "geo_point_2d": { "lon": 11.3368361101402, "lat": 44.49669729201449 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.317296100320949, 44.4876411976296, -39.30643306020647]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Felice Battaglia",
+        "quartiere": "Porto - Saragozza",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "RAVONE",
+        "zona_pross": "SARAGOZZA - SAN LUCA",
+        "geo_point_2d": { "lon": 11.317296100320949, "lat": 44.4876411976296 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.359540548505016, 44.48571007841418, -39.27253305539489]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "della lana",
+        "quartiere": "Santo Stefano",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "attendere",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "MEZZOFANTI",
+        "zona_pross": "MURRI",
+        "geo_point_2d": { "lon": 11.359540548505016, "lat": 44.48571007841418 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.3264804006724, 44.51924080215501, -39.22873311769217]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "usodimare",
+        "quartiere": "Navile",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "attendere",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "BEVERARA",
+        "zona_pross": "BEVERARA",
+        "geo_point_2d": { "lon": 11.3264804006724, "lat": 44.51924080215501 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.41032125481954, 44.51394459013674, -5.1433220506e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "via Gazzoni CONAD",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "CAAB",
+        "zona_pross": "SAN DONATO NUOVO",
+        "geo_point_2d": { "lon": 11.41032125481954, "lat": 44.51394459013674 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.328303076596677, 44.513798147695255, -5.1434151828e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Marco Polo IPERCOOP",
+        "quartiere": "Navile",
+        "anno": "2021",
+        "numstalli": 4,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "BEVERARA",
+        "zona_pross": "BEVERARA",
+        "geo_point_2d": { "lon": 11.328303076596677, "lat": 44.513798147695255 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.354528138768059, 44.50744923058799, -5.142390728e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Lidl",
+        "ubicazione": "Via Serlio LIDL",
+        "quartiere": "Navile",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "PIAZZA DELL'UNITA'",
+        "zona_pross": "BOLOGNINA",
+        "geo_point_2d": { "lon": 11.354528138768059, "lat": 44.50744923058799 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.353060319155354, 44.531596355501094, -5.1465816796e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Lidl",
+        "ubicazione": "Via Marziale LIDL",
+        "quartiere": "Navile",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "CROCE COPERTA",
+        "zona_pross": "CORTICELLA - DOZZA",
+        "geo_point_2d": { "lon": 11.353060319155354, "lat": 44.531596355501094 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.370941877904636, 44.50866343844375, -5.142390728e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Bertini CONAD",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "MICHELINO",
+        "zona_pross": "SAN DONATO VECCHIO",
+        "geo_point_2d": { "lon": 11.370941877904636, "lat": 44.50866343844375 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.280550306895817, 44.49321285419994, -5.1395967603e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Raffaello Sanzio CENTRO BARCA",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "VILLAGGIO DELLA BARCA",
+        "zona_pross": "BARCA",
+        "geo_point_2d": { "lon": 11.280550306895817, "lat": 44.49321285419994 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.344772789461135, 44.49997193991749, -5.1408074796e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Apcoa",
+        "ubicazione": "Piazza Otto Agosto PARCHEGGIO",
+        "quartiere": "Santo Stefano",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "IRNERIO-2",
+        "zona_pross": "IRNERIO",
+        "geo_point_2d": { "lon": 11.344772789461135, "lat": 44.49997193991749 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.332557999659432, 44.519837404723376, -5.1446259022e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Darwin ENEL",
+        "quartiere": "Navile",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "BEVERARA",
+        "zona_pross": "BEVERARA",
+        "geo_point_2d": { "lon": 11.332557999659432, "lat": 44.519837404723376 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.350239337889127, 44.527610501788665, -3.3132731915e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Corticella n. 180",
+        "quartiere": "Navile",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "CASERME ROSSE-MANIFATTURA",
+        "zona_pross": "CORTICELLA - DOZZA",
+        "geo_point_2d": { "lon": 11.350239337889127, "lat": 44.527610501788665 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.292336398410828, 44.502401197824895, -3.3087097108e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Gamberini 7",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413570/20",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "BATTINDARNO",
+        "zona_pross": "BARCA",
+        "geo_point_2d": { "lon": 11.292336398410828, "lat": 44.502401197824895 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.372370559597607, 44.46369180419154, -3.3017247915e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via della Direttissima 9",
+        "quartiere": "Savena",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "308376/19",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "VIA TOSCANA",
+        "zona_pross": "VIA TOSCANA - S. RUFFILLO - MONTE DONATO",
+        "geo_point_2d": { "lon": 11.372370559597607, "lat": 44.46369180419154 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.339274573927934, 44.502889418233394, -3.3087097108e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Via Cairoli 1F",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "MARCONI-2",
+        "zona_pross": "MARCONI",
+        "geo_point_2d": { "lon": 11.339274573927934, "lat": 44.502889418233394 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.360626085070384, 44.50316194460192, -3.3088959754e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Pezzana 2",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "ND",
+        "numstalli": 4,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 2,
+        "disp": "pettine",
+        "area_stati": "VIA DEL LAVORO",
+        "zona_pross": "SAN DONATO VECCHIO",
+        "geo_point_2d": { "lon": 11.360626085070384, "lat": 44.50316194460192 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.361575804103566, 44.486963648442284, -3.3057294786e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Viale Oriani (ang Trento Trieste",
+        "quartiere": "Santo Stefano",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "308376/19",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "MEZZOFANTI",
+        "zona_pross": "MURRI",
+        "geo_point_2d": { "lon": 11.361575804103566, "lat": 44.486963648442284 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.352987051094425, 44.50183115572019, -3.3085234463e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Piazza Porta Mascarella n. 7",
+        "quartiere": "Santo Stefano",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "212655/13",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "IRNERIO-2",
+        "zona_pross": "IRNERIO",
+        "geo_point_2d": { "lon": 11.352987051094425, "lat": 44.50183115572019 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.390529629944522, 44.5116047314908, -3.3103860915e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Via Pirandello (parcheggio supermercato",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "PILASTRO",
+        "zona_pross": "SAN DONATO NUOVO",
+        "geo_point_2d": { "lon": 11.390529629944522, "lat": 44.5116047314908 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.38194974920737, 44.464371659278754, -3.3017247915e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Piazzale Atleti Azzurri d\u2019Italia",
+        "quartiere": "Savena",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "CORELLI",
+        "zona_pross": "LUNGO SAVENA",
+        "geo_point_2d": { "lon": 11.38194974920737, "lat": 44.464371659278754 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.313848598004682, 44.50285937161695, -3.3088959754e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Baracca 8",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "VELODROMO",
+        "zona_pross": "SAFFI",
+        "geo_point_2d": { "lon": 11.313848598004682, "lat": 44.50285937161695 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.344022416449365, 44.48083901799195, -3.304798156e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Codivilla",
+        "quartiere": "Santo Stefano",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "SAN MICHELE IN BOSCO",
+        "zona_pross": "OSSERVANZA - PADERNO",
+        "geo_point_2d": { "lon": 11.344022416449365, "lat": 44.48083901799195 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.358534696139772, 44.54000458040983, -3.3156014979e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Lipparini (ang. Via Stendhal",
+        "quartiere": "Navile",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "308376/19",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "SAN SAVINO",
+        "zona_pross": "CORTICELLA - DOZZA",
+        "geo_point_2d": { "lon": 11.358534696139772, "lat": 44.54000458040983 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.341923865610335, 44.501319876256645, -3.3084303141e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Via Montebello 2A",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "MARCONI-2",
+        "zona_pross": "MARCONI",
+        "geo_point_2d": { "lon": 11.341923865610335, "lat": 44.501319876256645 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.396032179045397, 44.501634457470345, -3.3087097108e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Larga 34",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "VIA LARGA",
+        "zona_pross": "CIRENAICA - MASSARENTI - SCANDELLARA",
+        "geo_point_2d": { "lon": 11.396032179045397, "lat": 44.501634457470345 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.388341084660022, 44.491670088107945, -3.3067539334e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Via Guelfa (parcheggio prossimit\u00e0 cabina Enel",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "GUELFA",
+        "zona_pross": "CIRENAICA - MASSARENTI - SCANDELLARA",
+        "geo_point_2d": { "lon": 11.388341084660022, "lat": 44.491670088107945 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.389045434763421, 44.47347194671569, -3.3034011722e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Via Faenza (sede del Quartiere Savena",
+        "quartiere": "Savena",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "VIA ARNO",
+        "zona_pross": "PONTEVECCHIO - MAZZINI",
+        "geo_point_2d": { "lon": 11.389045434763421, "lat": 44.47347194671569 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.344723377782433, 44.4867421410262, -3.3057294786e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Via Rubbiani 6",
+        "quartiere": "Santo Stefano",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "GALVANI-2",
+        "zona_pross": "GALVANI",
+        "geo_point_2d": { "lon": 11.344723377782433, "lat": 44.4867421410262 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.296607329448005, 44.508986167966704, -3.3098272979e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Emilia Ponente 243",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "AGUCCHI",
+        "zona_pross": "SANTA VIOLA",
+        "geo_point_2d": { "lon": 11.296607329448005, "lat": 44.508986167966704 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.357701865976273, 44.49482191747825, -3.307312727e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Zanolini 4",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "CIRENAICA",
+        "zona_pross": "CIRENAICA - MASSARENTI - SCANDELLARA",
+        "geo_point_2d": { "lon": 11.357701865976273, "lat": 44.49482191747825 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.334995875500677, 44.49852972000634, -3.3078715205e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Riva Reno n. 60",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "212655/13",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "MARCONI-2",
+        "zona_pross": "MARCONI",
+        "geo_point_2d": { "lon": 11.334995875500677, "lat": 44.49852972000634 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.335156474979096, 44.495217323699435, -3.3072195947e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Piazza S.Francesco n. 8",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 1,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "212655/13",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "MALPIGHI-2",
+        "zona_pross": "MALPIGHI",
+        "geo_point_2d": { "lon": 11.335156474979096, "lat": 44.495217323699435 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.37578487677736, 44.48450089860041, -3.3053569496e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Mainoldi (parcheggio",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "ND",
+        "numstalli": 1,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "212655/13",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "MENGOLI",
+        "zona_pross": "CIRENAICA - MASSARENTI - SCANDELLARA",
+        "geo_point_2d": { "lon": 11.37578487677736, "lat": 44.48450089860041 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.330057084621037, 44.49187699569357, -3.3067539334e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Foscolo n. 7",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 1,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "29790/14",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "MALPIGHI-2",
+        "zona_pross": "MALPIGHI",
+        "geo_point_2d": { "lon": 11.330057084621037, "lat": 44.49187699569357 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.35679268053292, 44.50116255511086, -3.3085234463e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Via Ranzani 1",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "CIRENAICA",
+        "zona_pross": "CIRENAICA - MASSARENTI - SCANDELLARA",
+        "geo_point_2d": { "lon": 11.35679268053292, "lat": 44.50116255511086 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.311878266291828, 44.49095117362493, -3.3066608012e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Via Irma Bandiera  (prossimit\u00e0 Giardino lato Via De\u2019 Coubertin",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "XXI APRILE",
+        "zona_pross": "SARAGOZZA - SAN LUCA",
+        "geo_point_2d": { "lon": 11.311878266291828, "lat": 44.49095117362493 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.311915537937313, 44.491931647041525, -3.3066608012e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Piazza della Pace (angolo Via XXI Aprile",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 4,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "212655/13",
+        "numcolonni": 2,
+        "disp": "pettine",
+        "area_stati": "XXI APRILE",
+        "zona_pross": "SARAGOZZA - SAN LUCA",
+        "geo_point_2d": { "lon": 11.311915537937313, "lat": 44.491931647041525 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.339814195483205, 44.51298649337018, -3.3107586205e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Gobetti n.2",
+        "quartiere": "Navile",
+        "anno": "ND",
+        "numstalli": 4,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "308376/19",
+        "numcolonni": 2,
+        "disp": "spina",
+        "area_stati": "EX MERCATO ORTOFRUTTICOLO",
+        "zona_pross": "BOLOGNINA",
+        "geo_point_2d": { "lon": 11.339814195483205, "lat": 44.51298649337018 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.343981221143496, 44.52152509181531, -39.235933122225106]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Arcoveggio fronte 50",
+        "quartiere": "Navile",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "ARCOVEGGIO",
+        "zona_pross": "BOLOGNINA",
+        "geo_point_2d": { "lon": 11.343981221143496, "lat": 44.52152509181531 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.353905700931564, 44.49700341390372, -39.28623307682574]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via S. Giacomo 9",
+        "quartiere": "Santo Stefano",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "IRNERIO-2",
+        "zona_pross": "IRNERIO",
+        "geo_point_2d": { "lon": 11.353905700931564, "lat": 44.49700341390372 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.338088405991439, 44.48868838979793, -39.306633062660694]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Castelfidardo",
+        "quartiere": "Porto - Saragozza",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "MALPIGHI-2",
+        "zona_pross": "MALPIGHI",
+        "geo_point_2d": { "lon": 11.338088405991439, "lat": 44.48868838979793 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.336728414214637, 44.50298659330018, -39.26343308761716]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Don Minzoni 15",
+        "quartiere": "Porto - Saragozza",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "MARCONI-2",
+        "zona_pross": "MARCONI",
+        "geo_point_2d": { "lon": 11.336728414214637, "lat": 44.50298659330018 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.348872404445267, 44.48514045246429, -39.32133305538446]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Piazza porta Castiglione",
+        "quartiere": "Santo Stefano",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "SAN MICHELE IN BOSCO",
+        "zona_pross": "OSSERVANZA - PADERNO",
+        "geo_point_2d": { "lon": 11.348872404445267, "lat": 44.48514045246429 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.354194784940596, 44.48808907080296, -39.31373306084424]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Fondazza 49",
+        "quartiere": "Santo Stefano",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "GALVANI-2",
+        "zona_pross": "GALVANI",
+        "geo_point_2d": { "lon": 11.354194784940596, "lat": 44.48808907080296 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.295898713115117, 44.5058768706555, -39.24043309409171]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Speranza parcheggio",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "EMILIA PONENTE",
+        "zona_pross": "SANTA VIOLA",
+        "geo_point_2d": { "lon": 11.295898713115117, "lat": 44.5058768706555 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.32850251366175, 44.50437419749073, -39.25753309112042]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Tanari",
+        "quartiere": "Porto - Saragozza",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "SCALO RAVONE",
+        "zona_pross": "SAFFI",
+        "geo_point_2d": { "lon": 11.32850251366175, "lat": 44.50437419749073 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.350655416646703, 44.50758270660418, -39.26303309574723]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Bigari",
+        "quartiere": "Navile",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "PIAZZA DELL'UNITA'",
+        "zona_pross": "BOLOGNINA",
+        "geo_point_2d": { "lon": 11.350655416646703, "lat": 44.50758270660418 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.357398377692984, 44.48855270293927, -39.31333306245506]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Toffano Carducci",
+        "quartiere": "Santo Stefano",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "attendere",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "GALVANI-2",
+        "zona_pross": "GALVANI",
+        "geo_point_2d": { "lon": 11.357398377692984, "lat": 44.48855270293927 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.367317055005497, 44.493981650688966, -39.30073307175189]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Scipione dal ferro",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "CIRENAICA",
+        "zona_pross": "CIRENAICA - MASSARENTI - SCANDELLARA",
+        "geo_point_2d": { "lon": 11.367317055005497, "lat": 44.493981650688966 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.398885520940954, 44.50974396530379, -39.28343309927732]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Trauzzi",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "2022",
+        "numstalli": 4,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 2,
+        "disp": "linea",
+        "area_stati": "PILASTRO",
+        "zona_pross": "SAN DONATO NUOVO",
+        "geo_point_2d": { "lon": 11.398885520940954, "lat": 44.50974396530379 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.378858360159755, 44.46595174295149, -39.38193302229047]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via della Battaglia",
+        "quartiere": "Savena",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "CORELLI",
+        "zona_pross": "LUNGO SAVENA",
+        "geo_point_2d": { "lon": 11.378858360159755, "lat": 44.46595174295149 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.286144900227137, 44.50923860252989, -39.225433100014925]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "aretusi",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "attendere",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "TRIUMVIRATO-PIETRA",
+        "zona_pross": "CASTELDEBOLE - PONTELUNGO",
+        "geo_point_2d": { "lon": 11.286144900227137, "lat": 44.50923860252989 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.409369687505759, 44.512554027193175, -5.1430426538e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "via Fanin IP",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "2021",
+        "numstalli": 4,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "CAAB",
+        "zona_pross": "SAN DONATO NUOVO",
+        "geo_point_2d": { "lon": 11.409369687505759, "lat": 44.512554027193175 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.330994311577989, 44.50648703736157, -5.1422044635e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Bovi Campeggi PAM",
+        "quartiere": "Porto - Saragozza",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "ZANARDI",
+        "zona_pross": "SAFFI",
+        "geo_point_2d": { "lon": 11.330994311577989, "lat": 44.50648703736157 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.394327858288328, 44.505037016008906, -5.1418319345e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via dell'Industria INTERSPAR",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "2021",
+        "numstalli": 4,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "VIA LARGA",
+        "zona_pross": "CIRENAICA - MASSARENTI - SCANDELLARA",
+        "geo_point_2d": { "lon": 11.394327858288328, "lat": 44.505037016008906 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.377145198394219, 44.47121076983374, -5.1355920732e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via delle Armi DESPAR",
+        "quartiere": "Savena",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "CAVEDONE",
+        "zona_pross": "PONTEVECCHIO - MAZZINI",
+        "geo_point_2d": { "lon": 11.377145198394219, "lat": 44.47121076983374 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.332169130054131, 44.50869841322641, -5.1426701248e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Carracci ENI",
+        "quartiere": "Navile",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "EX MERCATO ORTOFRUTTICOLO",
+        "zona_pross": "BOLOGNINA",
+        "geo_point_2d": { "lon": 11.332169130054131, "lat": 44.50869841322641 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.331364304467746, 44.508281822996395, -5.1422975957e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Carracci EMILIANAUTO",
+        "quartiere": "Navile",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "BEVERARA",
+        "zona_pross": "BEVERARA",
+        "geo_point_2d": { "lon": 11.331364304467746, "lat": 44.508281822996395 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.33256282496463, 44.51991604615281, -5.1445327699e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Darwin ENEL",
+        "quartiere": "Navile",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "BEVERARA",
+        "zona_pross": "BEVERARA",
+        "geo_point_2d": { "lon": 11.33256282496463, "lat": 44.51991604615281 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.408879030887285, 44.514977802852464, -5.1436945796e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Canali FICO",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "2021",
+        "numstalli": 4,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "CAAB",
+        "zona_pross": "SAN DONATO NUOVO",
+        "geo_point_2d": { "lon": 11.408879030887285, "lat": 44.514977802852464 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.364786104929863, 44.4919353843948, -3.3068470657e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Albertoni 19",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "MENGOLI",
+        "zona_pross": "CIRENAICA - MASSARENTI - SCANDELLARA",
+        "geo_point_2d": { "lon": 11.364786104929863, "lat": 44.4919353843948 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.3302097308114, 44.501210958355436, -3.3084303141e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Via Berti 2",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "ZANARDI",
+        "zona_pross": "SAFFI",
+        "geo_point_2d": { "lon": 11.3302097308114, "lat": 44.501210958355436 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.284228666085896, 44.51515499705566, -3.310944885e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Amatore Sciesa (fr. Stazione",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "BORGO CENTRO",
+        "zona_pross": "BORGO PANIGALE",
+        "geo_point_2d": { "lon": 11.284228666085896, "lat": 44.51515499705566 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.35574134812879, 44.50996629202841, -3.310199827e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "parcheggio supermercato di Via Donato Creti",
+        "quartiere": "Navile",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "PIAZZA DELL'UNITA'",
+        "zona_pross": "BOLOGNINA",
+        "geo_point_2d": { "lon": 11.35574134812879, "lat": 44.50996629202841 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.307049564515761, 44.49339125537588, -3.3068470657e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Andrea Costa 192",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "STADIO-MELONCELLO",
+        "zona_pross": "SARAGOZZA - SAN LUCA",
+        "geo_point_2d": { "lon": 11.307049564515761, "lat": 44.49339125537588 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.383955694116267, 44.47684218763849, -3.3038668334e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Lombardia 22",
+        "quartiere": "Savena",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "BITONE",
+        "zona_pross": "PONTEVECCHIO - MAZZINI",
+        "geo_point_2d": { "lon": 11.383955694116267, "lat": 44.47684218763849 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.401507620351172, 44.51748753186239, -3.3114105463e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Commercio Associato (davanti all\u2019hotel Fregio",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "CAAB",
+        "zona_pross": "SAN DONATO NUOVO",
+        "geo_point_2d": { "lon": 11.401507620351172, "lat": 44.51748753186239 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.297903756111847, 44.489248476023754, -3.3062882721e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Via Calda 1",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "CANALE DI RENO",
+        "zona_pross": "BARCA",
+        "geo_point_2d": { "lon": 11.297903756111847, "lat": 44.489248476023754 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.35667082547288, 44.48735141819925, -3.3058226109e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Dante Alighieri n. 14",
+        "quartiere": "Santo Stefano",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "212655/13",
+        "numcolonni": 2,
+        "disp": "pettine",
+        "area_stati": "GALVANI-2",
+        "zona_pross": "GALVANI",
+        "geo_point_2d": { "lon": 11.35667082547288, "lat": 44.48735141819925 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.36755394562328, 44.50395704511025, -3.3090822399e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "via San Donato 68",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "VIA DEL LAVORO",
+        "zona_pross": "SAN DONATO VECCHIO",
+        "geo_point_2d": { "lon": 11.36755394562328, "lat": 44.50395704511025 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.34967681004887, 44.512687699657505, -3.3106654882e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge \u2013 Enel X",
+        "ubicazione": "Via Saliceto (parcheggio T-Per",
+        "quartiere": "Navile",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "VIA FERRARESE",
+        "zona_pross": "BOLOGNINA",
+        "geo_point_2d": { "lon": 11.34967681004887, "lat": 44.512687699657505 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.39975538975062, 44.47331505120576, -3.3033080399e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Cracovia 2 (prossimit\u00e0 del Parco",
+        "quartiere": "Savena",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "VIA ARNO",
+        "zona_pross": "PONTEVECCHIO - MAZZINI",
+        "geo_point_2d": { "lon": 11.39975538975062, "lat": 44.47331505120576 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.349837353650809, 44.48209226309567, -3.3050775528e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Viale Giurini",
+        "quartiere": "Santo Stefano",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "GIARDINI MARGHERITA",
+        "zona_pross": "MURRI",
+        "geo_point_2d": { "lon": 11.349837353650809, "lat": 44.48209226309567 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.312069007344757, 44.50744897349147, -3.3096410334e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Dell\u2019Ospedale Avis",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 1,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "308376/19",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "PRATI DI CAPRARA-OSPEDALE MAGGIORE",
+        "zona_pross": "SAFFI",
+        "geo_point_2d": { "lon": 11.312069007344757, "lat": 44.50744897349147 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.27659824484266, 44.5180131804668, -3.3114105463e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Manuzio 7",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "BORGO CENTRO",
+        "zona_pross": "BORGO PANIGALE",
+        "geo_point_2d": { "lon": 11.27659824484266, "lat": 44.5180131804668 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.308136416309932, 44.499007911673374, -3.3082440495e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Largo Vittime Lager Nazisti (parcheggio",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "308376/19",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "CANALE DI RENO",
+        "zona_pross": "BARCA",
+        "geo_point_2d": { "lon": 11.308136416309932, "lat": 44.499007911673374 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.33046485040738, 44.50196498480568, -3.3086165786e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "via Berti 3",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "ZANARDI",
+        "zona_pross": "SAFFI",
+        "geo_point_2d": { "lon": 11.33046485040738, "lat": 44.50196498480568 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.3648752834124, 44.47892348264817, -3.3043324947e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Murri 117",
+        "quartiere": "Santo Stefano",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "CHIESANUOVA",
+        "zona_pross": "MURRI",
+        "geo_point_2d": { "lon": 11.3648752834124, "lat": 44.47892348264817 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.339638343426113, 44.48461787560799, -3.3054500818e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Via Codivilla 2",
+        "quartiere": "Santo Stefano",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "SAN MICHELE IN BOSCO",
+        "zona_pross": "OSSERVANZA - PADERNO",
+        "geo_point_2d": { "lon": 11.339638343426113, "lat": 44.48461787560799 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.26410635661357, 44.52120050227344, -3.3122487366e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel fast",
+        "ubicazione": "parcheggio Ipercoop di Via M.E.Lepido",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "152131/18",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "DUCATI-VILLAGGIO INA",
+        "zona_pross": "BORGO PANIGALE",
+        "geo_point_2d": { "lon": 11.26410635661357, "lat": 44.52120050227344 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.361938966463967, 44.49322579061459, -3.3070333302e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Pancaldi 46",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "CIRENAICA",
+        "zona_pross": "CIRENAICA - MASSARENTI - SCANDELLARA",
+        "geo_point_2d": { "lon": 11.361938966463967, "lat": 44.49322579061459 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.306391673166683, 44.50878332853568, -3.3098272979e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Nanni Costa",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "ND",
+        "numstalli": 4,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 2,
+        "disp": "pettine",
+        "area_stati": "AGUCCHI",
+        "zona_pross": "SANTA VIOLA",
+        "geo_point_2d": { "lon": 11.306391673166683, "lat": 44.50878332853568 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.362210858087499, 44.50575780090909, -3.3093616366e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Viale della Repubblica",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "VIA DEL LAVORO",
+        "zona_pross": "SAN DONATO VECCHIO",
+        "geo_point_2d": { "lon": 11.362210858087499, "lat": 44.50575780090909 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.328296263984766, 44.513497416308866, -3.3106654882e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Soges",
+        "ubicazione": "Via Fantin",
+        "quartiere": "Navile",
+        "anno": "ND",
+        "numstalli": 4,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "0",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "BEVERARA",
+        "zona_pross": "BEVERARA",
+        "geo_point_2d": { "lon": 11.328296263984766, "lat": 44.513497416308866 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.355511917436028, 44.49643106212672, -3.307685256e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via S. Giacomo n. 9/2",
+        "quartiere": "Santo Stefano",
+        "anno": "ND",
+        "numstalli": 1,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "29790/14",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "IRNERIO-2",
+        "zona_pross": "IRNERIO",
+        "geo_point_2d": { "lon": 11.355511917436028, "lat": 44.49643106212672 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.362521657664526, 44.50948384994256, -3.3100135624e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Viale Aldo Moro n. 18",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "ND",
+        "numstalli": 1,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "209534/11",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "FIERA",
+        "zona_pross": "SAN DONATO VECCHIO",
+        "geo_point_2d": { "lon": 11.362521657664526, "lat": 44.50948384994256 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.313908005597177, 44.50274111241244, -3.3087097108e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Cimabue",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "VELODROMO",
+        "zona_pross": "SAFFI",
+        "geo_point_2d": { "lon": 11.313908005597177, "lat": 44.50274111241244 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.355340432764992, 44.532210222377756, -3.3141113818e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Castelbolognese",
+        "quartiere": "Navile",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "291370/18",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "CROCE COPERTA",
+        "zona_pross": "CORTICELLA - DOZZA",
+        "geo_point_2d": { "lon": 11.355340432764992, "lat": 44.532210222377756 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.370127498561887, 44.472816221500565, -3.3033080399e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Via Parisio 4",
+        "quartiere": "Santo Stefano",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "CHIESANUOVA",
+        "zona_pross": "MURRI",
+        "geo_point_2d": { "lon": 11.370127498561887, "lat": 44.472816221500565 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.360843399589092, 44.48792647204889, -3.3061020076e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Hera Luce",
+        "ubicazione": "Piazza Trento Trieste (civ. 4, prossimit\u00e0 Largo D. Presini",
+        "quartiere": "Santo Stefano",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "MEZZOFANTI",
+        "zona_pross": "MURRI",
+        "geo_point_2d": { "lon": 11.360843399589092, "lat": 44.48792647204889 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.330457850159128, 44.50191495041718, -3.3087097108e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Lodovico Berti 3A",
+        "quartiere": "Porto - Saragozza",
+        "anno": "ND",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "413574/20",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "ZANARDI",
+        "zona_pross": "SAFFI",
+        "geo_point_2d": { "lon": 11.330457850159128, "lat": 44.50191495041718 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.328169196546188, 44.48826198436341, -3.3061020076e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel X",
+        "ubicazione": "Via Risorgimento",
+        "quartiere": "Santo Stefano",
+        "anno": "ND",
+        "numstalli": 1,
+        "stato": "attivo",
+        "proprieta": "Comunale",
+        "ordinanza": "308376/19",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "OSSERVANZA",
+        "zona_pross": "OSSERVANZA - PADERNO",
+        "geo_point_2d": { "lon": 11.328169196546188, "lat": 44.48826198436341 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.375006906652066, 44.48059347210165, -39.340133047662675]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Nadi",
+        "quartiere": "Santo Stefano",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "DAGNINI",
+        "zona_pross": "MURRI",
+        "geo_point_2d": { "lon": 11.375006906652066, "lat": 44.48059347210165 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.291296496167158, 44.50086303060808, -39.249633084982634]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via De Pisis 1",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "BATTINDARNO",
+        "zona_pross": "BARCA",
+        "geo_point_2d": { "lon": 11.291296496167158, "lat": 44.50086303060808 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.400766826805715, 44.495216390931226, -39.30533307325095]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via mattei-Barelli",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "spina",
+        "area_stati": "CROCE DEL BIACCO",
+        "zona_pross": "CROCE DEL BIACCO - ROVERI",
+        "geo_point_2d": { "lon": 11.400766826805715, "lat": 44.495216390931226 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.293560006278346, 44.51659155811115, -39.212933115661144]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Triumvirato",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "TRIUMVIRATO-PIETRA",
+        "zona_pross": "CASTELDEBOLE - PONTELUNGO",
+        "geo_point_2d": { "lon": 11.293560006278346, "lat": 44.51659155811115 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.309213800502075, 44.4938444006002, -39.28253307193518]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Andrea Costa Bocciofila",
+        "quartiere": "Porto - Saragozza",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "STADIO-MELONCELLO",
+        "zona_pross": "SARAGOZZA - SAN LUCA",
+        "geo_point_2d": { "lon": 11.309213800502075, "lat": 44.4938444006002 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.309683007046972, 44.505600801317804, -39.24773309286684]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Emilia Ponente prati caprara",
+        "quartiere": "Porto - Saragozza",
+        "anno": "2022",
+        "numstalli": 4,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 2,
+        "disp": "pettine",
+        "area_stati": "PRATI DI CAPRARA-OSPEDALE MAGGIORE",
+        "zona_pross": "SAFFI",
+        "geo_point_2d": { "lon": 11.309683007046972, "lat": 44.505600801317804 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.324953270319805, 44.52087854135442, -39.224633120931685]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "Via Vasco de Gama parcheggio",
+        "quartiere": "Navile",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "pettine",
+        "area_stati": "BEVERARA",
+        "zona_pross": "BEVERARA",
+        "geo_point_2d": { "lon": 11.324953270319805, "lat": 44.52087854135442 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.348733500053601, 44.50107340219522, -39.272633084096014]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "todaro",
+        "quartiere": "Santo Stefano",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "attendere",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "IRNERIO-2",
+        "zona_pross": "IRNERIO",
+        "geo_point_2d": { "lon": 11.348733500053601, "lat": 44.50107340219522 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.318468000293231, 44.493171402007825, -39.28693307098001]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Be Charge",
+        "ubicazione": "valeriani",
+        "quartiere": "Porto - Saragozza",
+        "anno": "2022",
+        "numstalli": 2,
+        "stato": "in esecuzione",
+        "proprieta": "Comunale",
+        "ordinanza": "61479/22",
+        "numcolonni": 1,
+        "disp": "linea",
+        "area_stati": "XXI APRILE",
+        "zona_pross": "SARAGOZZA - SAN LUCA",
+        "geo_point_2d": { "lon": 11.318468000293231, "lat": 44.493171402007825 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.39080190014875, 44.49837841524213, -5.1406212151e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Canali FICO",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "2021",
+        "numstalli": 18,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "VIA LARGA",
+        "zona_pross": "CIRENAICA - MASSARENTI - SCANDELLARA",
+        "geo_point_2d": { "lon": 11.39080190014875, "lat": 44.49837841524213 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.399740148741412, 44.51472512435977, -5.1437877119e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Viale Carnacini MERAVILLE",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "CAAB",
+        "zona_pross": "SAN DONATO NUOVO",
+        "geo_point_2d": { "lon": 11.399740148741412, "lat": 44.51472512435977 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.362286027390265, 44.52017211294639, -5.1445327699e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Stalingrado SPRINTGAS",
+        "quartiere": "San Donato - San Vitale",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "FIERA",
+        "zona_pross": "SAN DONATO VECCHIO",
+        "geo_point_2d": { "lon": 11.362286027390265, "lat": 44.52017211294639 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.279801525181725, 44.5085404318782, -5.1425769925e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Viale Togliatti IP",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "TRIUMVIRATO-PIETRA",
+        "zona_pross": "CASTELDEBOLE - PONTELUNGO",
+        "geo_point_2d": { "lon": 11.279801525181725, "lat": 44.5085404318782 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.269773431059923, 44.51299205544624, -5.1434151828e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via De Gasperi ENI",
+        "quartiere": "Borgo Panigale - Reno",
+        "anno": "2021",
+        "numstalli": 4,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "RIGOSA",
+        "zona_pross": "BORGO PANIGALE",
+        "geo_point_2d": { "lon": 11.269773431059923, "lat": 44.51299205544624 }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [11.363727924760337, 44.54784544504465, -5.1496550441e-5]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "operatore": "Enel",
+        "ubicazione": "Via Shakespeare ENI",
+        "quartiere": "Navile",
+        "anno": "2021",
+        "numstalli": 2,
+        "stato": "attivo",
+        "proprieta": "Privata",
+        "ordinanza": "no",
+        "numcolonni": 0,
+        "disp": null,
+        "area_stati": "SAVENA ABBANDONATO",
+        "zona_pross": "CORTICELLA - DOZZA",
+        "geo_point_2d": { "lon": 11.363727924760337, "lat": 44.54784544504465 }
+      }
+    }
+  ]
+}
